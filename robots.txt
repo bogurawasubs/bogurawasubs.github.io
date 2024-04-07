@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bogurawasubs.github.io/sitemap.xml
